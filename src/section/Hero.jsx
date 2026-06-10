@@ -1,5 +1,4 @@
 import React from 'react';
-// 1. Impor gambar sudah benar di sini
 import fotoProfil from '../assets/GW BANGET.jpg'; 
 
 export default function Hero() {
